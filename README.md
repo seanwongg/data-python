@@ -1,2 +1,2 @@
 # data-python
-For data analysis with Jupyter
+For data analysis projects
